@@ -14,12 +14,13 @@ public class Zoo{
 
 
 		List<RoamBehavior> behaviors = new ArrayList<RoamBehavior>();
-
+		/* Each behavior object is instantiated and added to a list. */
 		behaviors.add( new SwingRoam() );
 		behaviors.add( new NormalRoam() );
 		behaviors.add( new LazyRoam() );
 		behaviors.add( new SprintRoam() );
 		behaviors.add( new SneakRoam() );
+		int behavior_length = behaviors.size();
 
 		List<Animal> animals = new ArrayList<Animal>();
 		/* Each animal object is given an identity - a name. */
@@ -43,14 +44,12 @@ public class Zoo{
 		animals.add( new Orangutan("Oat") );
 		animals.add( new Baboon("Bob") );
 		animals.add( new Baboon("Billie") );
+		int animal_length = animals.size();
 
-		// System.out.println(animals.get(0).roam_behavior.roam());
-
-		int length = animals.size();
-
-		for(int i = 0; i < length; i++){
+		// for loop used to randomly assign animals behaviors based on their animal type
+		for(int i = 0; i < animal_length; i++){
 			int min = 1;
-			int max = behaviors.size();
+			int max = behavior_length;
 			Animal animal = animals.get(i);
 
 			if(animal instanceof Primate){
@@ -62,7 +61,7 @@ public class Zoo{
 			}
 
 			Random random = new Random();
-			int roll = random.nextInt(max - min) + min; //random number between max and min
+			int roll = random.nextInt(max - min) + min; //random number between max and min range
 
 			animal.setBehavior(behaviors.get(roll));
 		}
@@ -73,18 +72,57 @@ public class Zoo{
 
 		for(int i = 1; i <= days; i++){
 			System.out.println("Day "+i+":");
+
 			ZooKeeper keeper = new ZooKeeper();
 			System.out.println("Zookeeper has entered the zoo!");
-			for(int j = 0; j < length; j++){
-				Animal currentAnimal = animals.get(j);
-				keeper.wake(currentAnimal);
-				keeper.rollCall(currentAnimal);
-				keeper.feed(currentAnimal);
-				keeper.exercise(currentAnimal);
-				keeper.sleep(currentAnimal);
+			ZooAnnouncer announcer = new KeeperObserver(keeper);
+			ZooClock clock = new ZooClock();
+			clock.newDay();
+			while(clock.isDay()){
+				clock.announceTime();
+				int curr_hour = clock.getHour();
+				if(curr_hour == 0 || curr_hour == 1 || curr_hour == 3 || curr_hour == 8 || curr_hour == 12){
+					for(int j = 0; j < animal_length; j++){
+						Animal currentAnimal = animals.get(j);
+						switch(curr_hour){
+							case 0:
+								keeper.wake(currentAnimal);
+								break;
+							case 1:
+								keeper.rollCall(currentAnimal);
+								break;
+							case 3:
+								keeper.feed(currentAnimal);
+								break;
+							case 8:
+								keeper.exercise(currentAnimal);
+								break;
+							case 12:
+								keeper.sleep(currentAnimal);
+								break;
+						}
+					}
+				}
+				clock.nextHour();
 			}
+
 			keeper = null;
+			clock = null;
 			System.out.println("Zookeeper has left the zoo!\n");
+
+
+
+			// System.out.println("Zookeeper has entered the zoo!");
+			// for(int j = 0; j < length; j++){
+			// 	Animal currentAnimal = animals.get(j);
+			// 	keeper.wake(currentAnimal);
+			// 	keeper.rollCall(currentAnimal);
+			// 	keeper.feed(currentAnimal);
+			// 	keeper.exercise(currentAnimal);
+			// 	keeper.sleep(currentAnimal);
+			// }
+			// keeper = null;
+			// System.out.println("Zookeeper has left the zoo!\n");
 		}
     }
 }

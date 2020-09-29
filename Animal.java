@@ -7,14 +7,12 @@ public abstract class Animal{
 	String name;
 	String noise;
 	String type;
-	Boolean awake;
 	RoamBehavior roam_behavior;
 
 	public Animal(String name, String noise, String type){
 		this.name = name;
 		this.noise = noise;
 		this.type = type;
-		this.awake = false;
 	}
 
 	public void setBehavior(RoamBehavior behavior){
@@ -22,12 +20,7 @@ public abstract class Animal{
 	}
 
 	public void wakeUp(){
-		if(!this.awake){
-			this.awake = true;
-		}
-		else{
-			System.out.println(this.name + " has fallen asleep!");
-		}
+		System.out.println(this.name + " has woke up!");
 	}
 
 	public void makeNoise(){
@@ -49,11 +42,6 @@ public abstract class Animal{
 	}
 
 	public void sleep(){
-		if(this.awake){
-			this.awake = false;
-		}
-		else{
-			System.out.println(this.name + " has fallen asleep");
-		}
+		System.out.println(this.name + " has fallen asleep!");
 	}
 }
