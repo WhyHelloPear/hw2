@@ -105,24 +105,9 @@ public class Zoo{
 				}
 				clock.nextHour();
 			}
-
 			keeper = null;
 			clock = null;
 			System.out.println("Zookeeper has left the zoo!\n");
-
-
-
-			// System.out.println("Zookeeper has entered the zoo!");
-			// for(int j = 0; j < length; j++){
-			// 	Animal currentAnimal = animals.get(j);
-			// 	keeper.wake(currentAnimal);
-			// 	keeper.rollCall(currentAnimal);
-			// 	keeper.feed(currentAnimal);
-			// 	keeper.exercise(currentAnimal);
-			// 	keeper.sleep(currentAnimal);
-			// }
-			// keeper = null;
-			// System.out.println("Zookeeper has left the zoo!\n");
 		}
     }
 }
