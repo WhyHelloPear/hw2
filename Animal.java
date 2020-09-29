@@ -8,12 +8,17 @@ public abstract class Animal{
 	String noise;
 	String type;
 	Boolean awake;
+	RoamBehavior roam_behavior;
 
 	public Animal(String name, String noise, String type){
 		this.name = name;
 		this.noise = noise;
 		this.type = type;
 		this.awake = false;
+	}
+
+	public void setBehavior(RoamBehavior behavior){
+		this.roam_behavior = behavior;
 	}
 
 	public void wakeUp(){
@@ -33,8 +38,14 @@ public abstract class Animal{
 		System.out.println(this.name+" has been fed!");
 	}
 
+
+	// Idea is to change how each animal roams around by
+	// implementing an interface for roam and setting a strategy
+	// that's appropriate for each animal
 	public void roam(){
-		System.out.println(this.name + " is roaming around!");
+		String action = this.roam_behavior.roam();
+		System.out.println(this.name+" the "+this.type+" "+action);
+
 	}
 
 	public void sleep(){

@@ -1,3 +1,4 @@
+import java.util.Random;
 import java.util.*;
 
 public class Zoo{
@@ -12,9 +13,15 @@ public class Zoo{
 		System.out.println("================================================\n");
 
 
+		List<RoamBehavior> behaviors = new ArrayList<RoamBehavior>();
+
+		behaviors.add( new SwingRoam() );
+		behaviors.add( new NormalRoam() );
+		behaviors.add( new LazyRoam() );
+		behaviors.add( new SprintRoam() );
+		behaviors.add( new SneakRoam() );
+
 		List<Animal> animals = new ArrayList<Animal>();
-
-
 		/* Each animal object is given an identity - a name. */
 		animals.add( new Wolf("Wendy") );
 		animals.add( new Wolf("Walter") );
@@ -37,7 +44,28 @@ public class Zoo{
 		animals.add( new Baboon("Bob") );
 		animals.add( new Baboon("Billie") );
 
+		// System.out.println(animals.get(0).roam_behavior.roam());
+
 		int length = animals.size();
+
+		for(int i = 0; i < length; i++){
+			int min = 1;
+			int max = behaviors.size();
+			Animal animal = animals.get(i);
+
+			if(animal instanceof Primate){
+				min = 0;
+				max -= 2;
+			}
+			if(animal instanceof Pachyderm){
+				max -= 1;
+			}
+
+			Random random = new Random();
+			int roll = random.nextInt(max - min) + min; //random number between max and min
+
+			animal.setBehavior(behaviors.get(roll));
+		}
 
 		/* This loop is a good example of polymorphism. currentAnimal can be a Dog,
 		Tiger, Cat, etc. But regardless, the wake(), rollCall(), etc. methods can
