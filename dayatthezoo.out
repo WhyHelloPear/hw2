@@ -1,0 +1,560 @@
+Welcome to The Zoo!
+Enter the number of days you'd like to simulate:
+7
+================================================
+
+Day 1:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy is roaming around!
+Calling for Walter the wolf
+Walter has been fed!
+Walter is roaming around!
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo roams around.
+Calling for Deborah the dog
+Deborah has been fed!
+Deborah has refused to exercise! They chose to dig instead.
+Calling for Terry the tiger
+Terry has been fed!
+Terry is roaming around!
+Terry has refused to sleep!
+Terry is roaming around!
+Calling for Tiarra the tiger
+Tiarra has been fed!
+Tiarra is roaming around!
+Tiarra has refused to sleep!
+Tiarra the tiger roared!
+Calling for Larry the lion
+Larry has been fed!
+Larry is roaming around!
+Larry has refused to sleep!
+Larry is roaming around!
+Calling for Lara the lion
+Lara has been fed!
+Lara is roaming around!
+Lara has refused to sleep!
+Lara is roaming around!
+Calling for Randy the rhino
+Randy has been fed!
+Randy roams around.
+Calling for Rafi the rhino
+Rafi has been fed!
+Rafi roams around.
+Calling for Henry the hippo
+Henry has been fed!
+Henry roams around.
+Calling for Hariett the hippo
+Hariett has been fed!
+Hariett has refused to exercise! They charge at you instead!
+Calling for Eddie the elephant
+Eddie has been fed!
+Eddie roams around.
+Calling for Edna the elephant
+Edna has been fed!
+Edna has refused to exercise! They charge at you instead!
+Calling for Mandy the monkey
+Mandy ate a banana!
+Mandy is roaming around!
+Calling for Mark the monkey
+Mark ate a banana!
+Mark is roaming around!
+Calling for Odie the orangutan
+Odie has refused to eat!
+Odie is roaming around!
+Odie has fallen asleep
+Calling for Oat the orangutan
+Oat has refused to eat!
+Oat is roaming around!
+Oat has fallen asleep
+Calling for Bob the baboon
+Bob has refused to eat!
+Bob is roaming around!
+Bob has fallen asleep
+Calling for Billie the baboon
+Billie has refused to eat!
+Billie is roaming around!
+Billie has fallen asleep
+Zookeeper has left the zoo!
+
+Day 2:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy is roaming around!
+Calling for Walter the wolf
+Walter has been fed!
+Walter is roaming around!
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo roams around.
+Calling for Deborah the dog
+Deborah has been fed!
+Deborah roams around.
+Terry has fallen asleep!
+Calling for Terry the tiger
+Terry has been fed!
+Terry is roaming around!
+Terry has refused to sleep!
+Terry the tiger roared!
+Tiarra has fallen asleep!
+Calling for Tiarra the tiger
+Tiarra has been fed!
+Tiarra is roaming around!
+Tiarra has refused to sleep!
+Tiarra is roaming around!
+Larry has fallen asleep!
+Calling for Larry the lion
+Larry has been fed!
+Larry is roaming around!
+Larry has refused to sleep!
+Larry is roaming around!
+Lara has fallen asleep!
+Calling for Lara the lion
+Lara has been fed!
+Lara is roaming around!
+Lara has refused to sleep!
+Lara is roaming around!
+Calling for Randy the rhino
+Randy has been fed!
+Randy roams around.
+Calling for Rafi the rhino
+Rafi has been fed!
+Rafi roams around.
+Calling for Henry the hippo
+Henry has been fed!
+Henry roams around.
+Calling for Hariett the hippo
+Hariett has been fed!
+Hariett roams around.
+Calling for Eddie the elephant
+Eddie has been fed!
+Eddie has refused to exercise! They charge at you instead!
+Calling for Edna the elephant
+Edna has been fed!
+Edna roams around.
+Calling for Mandy the monkey
+Mandy ate a banana!
+Mandy is roaming around!
+Calling for Mark the monkey
+Mark ate a banana!
+Mark is roaming around!
+Calling for Odie the orangutan
+Odie has refused to eat!
+Odie the orangutan howled!
+Odie is roaming around!
+Calling for Oat the orangutan
+Oat has refused to eat!
+Oat the orangutan howled!
+Oat is roaming around!
+Calling for Bob the baboon
+Bob has refused to eat!
+Bob the baboon howled!
+Bob is roaming around!
+Calling for Billie the baboon
+Billie has refused to eat!
+Billie is roaming around!
+Billie has fallen asleep
+Zookeeper has left the zoo!
+
+Day 3:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy is roaming around!
+Calling for Walter the wolf
+Walter has been fed!
+Walter is roaming around!
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo roams around.
+Calling for Deborah the dog
+Deborah has been fed!
+Deborah has refused to exercise! They chose to dig instead.
+Terry has fallen asleep!
+Calling for Terry the tiger
+Terry has been fed!
+Terry is roaming around!
+Terry has refused to sleep!
+Terry the tiger roared!
+Tiarra has fallen asleep!
+Calling for Tiarra the tiger
+Tiarra has been fed!
+Tiarra is roaming around!
+Tiarra has refused to sleep!
+Tiarra is roaming around!
+Larry has fallen asleep!
+Calling for Larry the lion
+Larry has been fed!
+Larry is roaming around!
+Larry has refused to sleep!
+Larry is roaming around!
+Lara has fallen asleep!
+Calling for Lara the lion
+Lara has been fed!
+Lara is roaming around!
+Lara has refused to sleep!
+Lara the lion roared!
+Calling for Randy the rhino
+Randy has been fed!
+Randy roams around.
+Calling for Rafi the rhino
+Rafi has been fed!
+Rafi has refused to exercise! They charge at you instead!
+Calling for Henry the hippo
+Henry has been fed!
+Henry has refused to exercise! They charge at you instead!
+Calling for Hariett the hippo
+Hariett has been fed!
+Hariett roams around.
+Calling for Eddie the elephant
+Eddie has been fed!
+Eddie roams around.
+Calling for Edna the elephant
+Edna has been fed!
+Edna roams around.
+Calling for Mandy the monkey
+Mandy ate a banana!
+Mandy is roaming around!
+Calling for Mark the monkey
+Mark ate a banana!
+Mark is roaming around!
+Calling for Odie the orangutan
+Odie has refused to eat!
+Odie is roaming around!
+Odie has fallen asleep
+Calling for Oat the orangutan
+Oat has refused to eat!
+Oat the orangutan howled!
+Oat is roaming around!
+Calling for Bob the baboon
+Bob has refused to eat!
+Bob is roaming around!
+Bob has fallen asleep
+Calling for Billie the baboon
+Billie has refused to eat!
+Billie the baboon howled!
+Billie is roaming around!
+Zookeeper has left the zoo!
+
+Day 4:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy is roaming around!
+Calling for Walter the wolf
+Walter has been fed!
+Walter is roaming around!
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo roams around.
+Calling for Deborah the dog
+Deborah has been fed!
+Deborah has refused to exercise! They chose to dig instead.
+Terry has fallen asleep!
+Calling for Terry the tiger
+Terry has been fed!
+Terry is roaming around!
+Terry has refused to sleep!
+Terry the tiger roared!
+Tiarra has fallen asleep!
+Calling for Tiarra the tiger
+Tiarra has been fed!
+Tiarra is roaming around!
+Tiarra has refused to sleep!
+Tiarra is roaming around!
+Larry has fallen asleep!
+Calling for Larry the lion
+Larry has been fed!
+Larry is roaming around!
+Larry has refused to sleep!
+Larry is roaming around!
+Lara has fallen asleep!
+Calling for Lara the lion
+Lara has been fed!
+Lara is roaming around!
+Lara has refused to sleep!
+Lara the lion roared!
+Calling for Randy the rhino
+Randy has been fed!
+Randy roams around.
+Calling for Rafi the rhino
+Rafi has been fed!
+Rafi roams around.
+Calling for Henry the hippo
+Henry has been fed!
+Henry roams around.
+Calling for Hariett the hippo
+Hariett has been fed!
+Hariett has refused to exercise! They charge at you instead!
+Calling for Eddie the elephant
+Eddie has been fed!
+Eddie roams around.
+Calling for Edna the elephant
+Edna has been fed!
+Edna roams around.
+Calling for Mandy the monkey
+Mandy ate a banana!
+Mandy is roaming around!
+Calling for Mark the monkey
+Mark ate a banana!
+Mark is roaming around!
+Calling for Odie the orangutan
+Odie has refused to eat!
+Odie is roaming around!
+Odie has fallen asleep
+Calling for Oat the orangutan
+Oat has refused to eat!
+Oat the orangutan howled!
+Oat is roaming around!
+Calling for Bob the baboon
+Bob has refused to eat!
+Bob the baboon howled!
+Bob is roaming around!
+Calling for Billie the baboon
+Billie has refused to eat!
+Billie the baboon howled!
+Billie is roaming around!
+Zookeeper has left the zoo!
+
+Day 5:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy is roaming around!
+Calling for Walter the wolf
+Walter has been fed!
+Walter is roaming around!
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo has refused to exercise! They chose to dig instead.
+Calling for Deborah the dog
+Deborah has been fed!
+Deborah has refused to exercise! They chose to dig instead.
+Terry has fallen asleep!
+Calling for Terry the tiger
+Terry has been fed!
+Terry is roaming around!
+Terry has refused to sleep!
+Terry is roaming around!
+Tiarra has fallen asleep!
+Calling for Tiarra the tiger
+Tiarra has been fed!
+Tiarra is roaming around!
+Tiarra has refused to sleep!
+Tiarra the tiger roared!
+Larry has fallen asleep!
+Calling for Larry the lion
+Larry has been fed!
+Larry is roaming around!
+Larry has refused to sleep!
+Larry is roaming around!
+Lara has fallen asleep!
+Calling for Lara the lion
+Lara has been fed!
+Lara is roaming around!
+Lara has refused to sleep!
+Lara the lion roared!
+Calling for Randy the rhino
+Randy has been fed!
+Randy has refused to exercise! They charge at you instead!
+Calling for Rafi the rhino
+Rafi has been fed!
+Rafi has refused to exercise! They charge at you instead!
+Calling for Henry the hippo
+Henry has been fed!
+Henry roams around.
+Calling for Hariett the hippo
+Hariett has been fed!
+Hariett roams around.
+Calling for Eddie the elephant
+Eddie has been fed!
+Eddie roams around.
+Calling for Edna the elephant
+Edna has been fed!
+Edna roams around.
+Calling for Mandy the monkey
+Mandy ate a banana!
+Mandy is roaming around!
+Calling for Mark the monkey
+Mark ate a banana!
+Mark is roaming around!
+Calling for Odie the orangutan
+Odie has refused to eat!
+Odie the orangutan howled!
+Odie is roaming around!
+Calling for Oat the orangutan
+Oat has refused to eat!
+Oat is roaming around!
+Oat has fallen asleep
+Calling for Bob the baboon
+Bob has refused to eat!
+Bob the baboon howled!
+Bob is roaming around!
+Calling for Billie the baboon
+Billie has refused to eat!
+Billie is roaming around!
+Billie has fallen asleep
+Zookeeper has left the zoo!
+
+Day 6:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy is roaming around!
+Calling for Walter the wolf
+Walter has been fed!
+Walter is roaming around!
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo roams around.
+Calling for Deborah the dog
+Deborah has been fed!
+Deborah has refused to exercise! They chose to dig instead.
+Terry has fallen asleep!
+Calling for Terry the tiger
+Terry has been fed!
+Terry is roaming around!
+Terry has refused to sleep!
+Terry is roaming around!
+Tiarra has fallen asleep!
+Calling for Tiarra the tiger
+Tiarra has been fed!
+Tiarra is roaming around!
+Tiarra has refused to sleep!
+Tiarra is roaming around!
+Larry has fallen asleep!
+Calling for Larry the lion
+Larry has been fed!
+Larry is roaming around!
+Larry has refused to sleep!
+Larry is roaming around!
+Lara has fallen asleep!
+Calling for Lara the lion
+Lara has been fed!
+Lara is roaming around!
+Lara has refused to sleep!
+Lara the lion roared!
+Calling for Randy the rhino
+Randy has been fed!
+Randy has refused to exercise! They charge at you instead!
+Calling for Rafi the rhino
+Rafi has been fed!
+Rafi roams around.
+Calling for Henry the hippo
+Henry has been fed!
+Henry roams around.
+Calling for Hariett the hippo
+Hariett has been fed!
+Hariett roams around.
+Calling for Eddie the elephant
+Eddie has been fed!
+Eddie has refused to exercise! They charge at you instead!
+Calling for Edna the elephant
+Edna has been fed!
+Edna roams around.
+Calling for Mandy the monkey
+Mandy ate a banana!
+Mandy is roaming around!
+Calling for Mark the monkey
+Mark ate a banana!
+Mark is roaming around!
+Calling for Odie the orangutan
+Odie has refused to eat!
+Odie is roaming around!
+Odie has fallen asleep
+Calling for Oat the orangutan
+Oat has refused to eat!
+Oat the orangutan howled!
+Oat is roaming around!
+Calling for Bob the baboon
+Bob has refused to eat!
+Bob the baboon howled!
+Bob is roaming around!
+Calling for Billie the baboon
+Billie has refused to eat!
+Billie the baboon howled!
+Billie is roaming around!
+Zookeeper has left the zoo!
+
+Day 7:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy is roaming around!
+Calling for Walter the wolf
+Walter has been fed!
+Walter is roaming around!
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo roams around.
+Calling for Deborah the dog
+Deborah has been fed!
+Deborah roams around.
+Terry has fallen asleep!
+Calling for Terry the tiger
+Terry has been fed!
+Terry is roaming around!
+Terry has refused to sleep!
+Terry the tiger roared!
+Tiarra has fallen asleep!
+Calling for Tiarra the tiger
+Tiarra has been fed!
+Tiarra is roaming around!
+Tiarra has refused to sleep!
+Tiarra is roaming around!
+Larry has fallen asleep!
+Calling for Larry the lion
+Larry has been fed!
+Larry is roaming around!
+Larry has refused to sleep!
+Larry the lion roared!
+Lara has fallen asleep!
+Calling for Lara the lion
+Lara has been fed!
+Lara is roaming around!
+Lara has refused to sleep!
+Lara is roaming around!
+Calling for Randy the rhino
+Randy has been fed!
+Randy roams around.
+Calling for Rafi the rhino
+Rafi has been fed!
+Rafi has refused to exercise! They charge at you instead!
+Calling for Henry the hippo
+Henry has been fed!
+Henry roams around.
+Calling for Hariett the hippo
+Hariett has been fed!
+Hariett has refused to exercise! They charge at you instead!
+Calling for Eddie the elephant
+Eddie has been fed!
+Eddie roams around.
+Calling for Edna the elephant
+Edna has been fed!
+Edna has refused to exercise! They charge at you instead!
+Calling for Mandy the monkey
+Mandy ate a banana!
+Mandy is roaming around!
+Calling for Mark the monkey
+Mark ate a banana!
+Mark is roaming around!
+Calling for Odie the orangutan
+Odie has refused to eat!
+Odie is roaming around!
+Odie has fallen asleep
+Calling for Oat the orangutan
+Oat has refused to eat!
+Oat the orangutan howled!
+Oat is roaming around!
+Calling for Bob the baboon
+Bob has refused to eat!
+Bob is roaming around!
+Bob has fallen asleep
+Calling for Billie the baboon
+Billie has refused to eat!
+Billie the baboon howled!
+Billie is roaming around!
+Zookeeper has left the zoo!
