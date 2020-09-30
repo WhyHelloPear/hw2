@@ -12,7 +12,7 @@ public class ZooKeeper extends ZooEmployee{
 
 	public void setState(String state){
 		this.state = state;
-		announcer.update();
+		announcer.update_keeper();
 	}
 
 	public void wake(Animal animal){
@@ -37,7 +37,7 @@ public class ZooKeeper extends ZooEmployee{
 	}
 
 	public void exercise(Animal animal){
-		if(this.state != "let out"){	
+		if(this.state != "let out"){
 			this.setState("let out");
 		}
 		animal.roam();
