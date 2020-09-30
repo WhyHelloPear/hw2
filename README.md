@@ -1,4 +1,4 @@
-# OOAD Homework/Project 1
+# OOAD Homework/Project 2
 
 ### No Team Name
 
