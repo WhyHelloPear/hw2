@@ -2,559 +2,1058 @@ Welcome to The Zoo!
 Enter the number of days you'd like to simulate:
 7
 ================================================
-
 Day 1:
-Zookeeper has entered the zoo!
-Calling for Wendy the wolf
-Wendy has been fed!
-Wendy is roaming around!
-Calling for Walter the wolf
-Walter has been fed!
-Walter is roaming around!
-Calling for Dumbo the dog
-Dumbo has been fed!
-Dumbo roams around.
-Calling for Deborah the dog
-Deborah has been fed!
-Deborah has refused to exercise! They chose to dig instead.
-Calling for Terry the tiger
-Terry has been fed!
-Terry is roaming around!
-Terry has refused to sleep!
-Terry is roaming around!
-Calling for Tiarra the tiger
-Tiarra has been fed!
-Tiarra is roaming around!
-Tiarra has refused to sleep!
-Tiarra the tiger roared!
-Calling for Larry the lion
-Larry has been fed!
-Larry is roaming around!
-Larry has refused to sleep!
-Larry is roaming around!
-Calling for Lara the lion
-Lara has been fed!
-Lara is roaming around!
-Lara has refused to sleep!
-Lara is roaming around!
-Calling for Randy the rhino
-Randy has been fed!
-Randy roams around.
-Calling for Rafi the rhino
-Rafi has been fed!
-Rafi roams around.
-Calling for Henry the hippo
-Henry has been fed!
-Henry roams around.
-Calling for Hariett the hippo
-Hariett has been fed!
-Hariett has refused to exercise! They charge at you instead!
-Calling for Eddie the elephant
-Eddie has been fed!
-Eddie roams around.
-Calling for Edna the elephant
-Edna has been fed!
-Edna has refused to exercise! They charge at you instead!
-Calling for Mandy the monkey
-Mandy ate a banana!
-Mandy is roaming around!
-Calling for Mark the monkey
-Mark ate a banana!
-Mark is roaming around!
-Calling for Odie the orangutan
-Odie has refused to eat!
-Odie is roaming around!
-Odie has fallen asleep
-Calling for Oat the orangutan
-Oat has refused to eat!
-Oat is roaming around!
-Oat has fallen asleep
-Calling for Bob the baboon
-Bob has refused to eat!
-Bob is roaming around!
-Bob has fallen asleep
-Calling for Billie the baboon
-Billie has refused to eat!
-Billie is roaming around!
-Billie has fallen asleep
-Zookeeper has left the zoo!
+================================================
 
-Day 2:
 Zookeeper has entered the zoo!
+ZooFoodServer has entered the zoo!
+The time is currently 8AM
+<The time is currently 8AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to wake up the animals!***
+Wendy has woke up!
+Walter has woke up!
+Dumbo has woke up!
+Deborah has woke up!
+Terry has woke up!
+Tiarra has woke up!
+Larry has woke up!
+Lara has woke up!
+Randy has woke up!
+Rafi has woke up!
+Henry has woke up!
+Hariett has woke up!
+Eddie has woke up!
+Edna has woke up!
+Mandy has woke up!
+Mark has woke up!
+Odie has woke up!
+Oat has woke up!
+Bob has woke up!
+Billie has woke up!
+<The time is currently 9AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to call out the animals!***
 Calling for Wendy the wolf
-Wendy has been fed!
-Wendy is roaming around!
 Calling for Walter the wolf
-Walter has been fed!
-Walter is roaming around!
 Calling for Dumbo the dog
-Dumbo has been fed!
-Dumbo roams around.
 Calling for Deborah the dog
-Deborah has been fed!
-Deborah roams around.
-Terry has fallen asleep!
 Calling for Terry the tiger
-Terry has been fed!
-Terry is roaming around!
-Terry has refused to sleep!
-Terry the tiger roared!
-Tiarra has fallen asleep!
 Calling for Tiarra the tiger
-Tiarra has been fed!
-Tiarra is roaming around!
-Tiarra has refused to sleep!
-Tiarra is roaming around!
-Larry has fallen asleep!
 Calling for Larry the lion
-Larry has been fed!
-Larry is roaming around!
-Larry has refused to sleep!
-Larry is roaming around!
-Lara has fallen asleep!
 Calling for Lara the lion
-Lara has been fed!
-Lara is roaming around!
-Lara has refused to sleep!
-Lara is roaming around!
 Calling for Randy the rhino
-Randy has been fed!
-Randy roams around.
 Calling for Rafi the rhino
-Rafi has been fed!
-Rafi roams around.
 Calling for Henry the hippo
-Henry has been fed!
-Henry roams around.
 Calling for Hariett the hippo
-Hariett has been fed!
-Hariett roams around.
 Calling for Eddie the elephant
-Eddie has been fed!
-Eddie has refused to exercise! They charge at you instead!
 Calling for Edna the elephant
-Edna has been fed!
-Edna roams around.
 Calling for Mandy the monkey
-Mandy ate a banana!
-Mandy is roaming around!
 Calling for Mark the monkey
-Mark ate a banana!
-Mark is roaming around!
 Calling for Odie the orangutan
+Calling for Oat the orangutan
+Calling for Bob the baboon
+Calling for Billie the baboon
+<The time is currently 10AM>
+<The time is currently 11AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to feed the animals!***
+Wendy has been fed!
+Walter has been fed!
+Dumbo has been fed!
+Deborah has been fed!
+Terry has been fed!
+Tiarra has been fed!
+Larry has been fed!
+Lara has been fed!
+Randy has been fed!
+Rafi has been fed!
+Henry has been fed!
+Hariett has been fed!
+Eddie has been fed!
+Edna has been fed!
+Mandy ate a banana!
+Mark ate a banana!
 Odie has refused to eat!
 Odie the orangutan howled!
-Odie is roaming around!
-Calling for Oat the orangutan
 Oat has refused to eat!
-Oat the orangutan howled!
-Oat is roaming around!
-Calling for Bob the baboon
+Oat has fallen asleep!
 Bob has refused to eat!
-Bob the baboon howled!
-Bob is roaming around!
-Calling for Billie the baboon
+Bob has fallen asleep!
 Billie has refused to eat!
-Billie is roaming around!
-Billie has fallen asleep
-Zookeeper has left the zoo!
-
-Day 3:
-Zookeeper has entered the zoo!
-Calling for Wendy the wolf
-Wendy has been fed!
-Wendy is roaming around!
-Calling for Walter the wolf
-Walter has been fed!
-Walter is roaming around!
-Calling for Dumbo the dog
-Dumbo has been fed!
+Billie the baboon howled!
+ZooFoodServer is making food.
+<The time is currently 12AM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 1PM>
+ZooFoodServer is cleaning.
+<The time is currently 2PM>
+<The time is currently 3PM>
+<The time is currently 4PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to let out the animals!***
+Wendy the wolf roams while by sprinting around the enclosure!
+Walter the wolf roams while by sprinting around the enclosure!
 Dumbo roams around.
-Calling for Deborah the dog
-Deborah has been fed!
-Deborah has refused to exercise! They chose to dig instead.
-Terry has fallen asleep!
-Calling for Terry the tiger
-Terry has been fed!
-Terry is roaming around!
-Terry has refused to sleep!
-Terry the tiger roared!
-Tiarra has fallen asleep!
-Calling for Tiarra the tiger
-Tiarra has been fed!
-Tiarra is roaming around!
-Tiarra has refused to sleep!
-Tiarra is roaming around!
-Larry has fallen asleep!
-Calling for Larry the lion
-Larry has been fed!
-Larry is roaming around!
-Larry has refused to sleep!
-Larry is roaming around!
-Lara has fallen asleep!
-Calling for Lara the lion
-Lara has been fed!
-Lara is roaming around!
-Lara has refused to sleep!
-Lara the lion roared!
-Calling for Randy the rhino
-Randy has been fed!
-Randy roams around.
-Calling for Rafi the rhino
-Rafi has been fed!
+Deborah roams around.
+Terry the tiger roams around while sneaking through the grass!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry the lion roams around while sneaking through the grass!
+Lara the lion roams around while sneaking through the grass!
+Randy has refused to exercise! They charge at you instead!
 Rafi has refused to exercise! They charge at you instead!
-Calling for Henry the hippo
-Henry has been fed!
 Henry has refused to exercise! They charge at you instead!
-Calling for Hariett the hippo
-Hariett has been fed!
-Hariett roams around.
-Calling for Eddie the elephant
-Eddie has been fed!
-Eddie roams around.
-Calling for Edna the elephant
-Edna has been fed!
+Hariett has refused to exercise! They charge at you instead!
+Eddie has refused to exercise! They charge at you instead!
 Edna roams around.
-Calling for Mandy the monkey
-Mandy ate a banana!
-Mandy is roaming around!
-Calling for Mark the monkey
-Mark ate a banana!
-Mark is roaming around!
-Calling for Odie the orangutan
-Odie has refused to eat!
-Odie is roaming around!
-Odie has fallen asleep
-Calling for Oat the orangutan
-Oat has refused to eat!
-Oat the orangutan howled!
-Oat is roaming around!
-Calling for Bob the baboon
-Bob has refused to eat!
-Bob is roaming around!
-Bob has fallen asleep
-Calling for Billie the baboon
-Billie has refused to eat!
-Billie the baboon howled!
-Billie is roaming around!
-Zookeeper has left the zoo!
-
-Day 4:
-Zookeeper has entered the zoo!
-Calling for Wendy the wolf
-Wendy has been fed!
-Wendy is roaming around!
-Calling for Walter the wolf
-Walter has been fed!
-Walter is roaming around!
-Calling for Dumbo the dog
-Dumbo has been fed!
-Dumbo roams around.
-Calling for Deborah the dog
-Deborah has been fed!
-Deborah has refused to exercise! They chose to dig instead.
-Terry has fallen asleep!
-Calling for Terry the tiger
-Terry has been fed!
-Terry is roaming around!
+Mandy the monkey roams around by swining from the tree vines!
+Mark the monkey roams around by swining from the tree vines!
+Odie the orangutan lazily roams around!
+Oat the orangutan roams around by swining from the tree vines!
+Bob the baboon roams around by swining from the tree vines!
+Billie the baboon lazily roams around!
+ZooFoodServer is making food.
+<The time is currently 5PM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 6PM>
+ZooFoodServer is cleaning.
+<The time is currently 7PM>
+<The time is currently 8PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to end the day and put away the animals!***
+Wendy has fallen asleep!
+Walter has fallen asleep!
+Dumbo has fallen asleep!
+Deborah has fallen asleep!
 Terry has refused to sleep!
 Terry the tiger roared!
-Tiarra has fallen asleep!
-Calling for Tiarra the tiger
-Tiarra has been fed!
-Tiarra is roaming around!
-Tiarra has refused to sleep!
-Tiarra is roaming around!
-Larry has fallen asleep!
-Calling for Larry the lion
-Larry has been fed!
-Larry is roaming around!
-Larry has refused to sleep!
-Larry is roaming around!
-Lara has fallen asleep!
-Calling for Lara the lion
-Lara has been fed!
-Lara is roaming around!
-Lara has refused to sleep!
-Lara the lion roared!
-Calling for Randy the rhino
-Randy has been fed!
-Randy roams around.
-Calling for Rafi the rhino
-Rafi has been fed!
-Rafi roams around.
-Calling for Henry the hippo
-Henry has been fed!
-Henry roams around.
-Calling for Hariett the hippo
-Hariett has been fed!
-Hariett has refused to exercise! They charge at you instead!
-Calling for Eddie the elephant
-Eddie has been fed!
-Eddie roams around.
-Calling for Edna the elephant
-Edna has been fed!
-Edna roams around.
-Calling for Mandy the monkey
-Mandy ate a banana!
-Mandy is roaming around!
-Calling for Mark the monkey
-Mark ate a banana!
-Mark is roaming around!
-Calling for Odie the orangutan
-Odie has refused to eat!
-Odie is roaming around!
-Odie has fallen asleep
-Calling for Oat the orangutan
-Oat has refused to eat!
-Oat the orangutan howled!
-Oat is roaming around!
-Calling for Bob the baboon
-Bob has refused to eat!
-Bob the baboon howled!
-Bob is roaming around!
-Calling for Billie the baboon
-Billie has refused to eat!
-Billie the baboon howled!
-Billie is roaming around!
-Zookeeper has left the zoo!
-
-Day 5:
-Zookeeper has entered the zoo!
-Calling for Wendy the wolf
-Wendy has been fed!
-Wendy is roaming around!
-Calling for Walter the wolf
-Walter has been fed!
-Walter is roaming around!
-Calling for Dumbo the dog
-Dumbo has been fed!
-Dumbo has refused to exercise! They chose to dig instead.
-Calling for Deborah the dog
-Deborah has been fed!
-Deborah has refused to exercise! They chose to dig instead.
-Terry has fallen asleep!
-Calling for Terry the tiger
-Terry has been fed!
-Terry is roaming around!
-Terry has refused to sleep!
-Terry is roaming around!
-Tiarra has fallen asleep!
-Calling for Tiarra the tiger
-Tiarra has been fed!
-Tiarra is roaming around!
 Tiarra has refused to sleep!
 Tiarra the tiger roared!
-Larry has fallen asleep!
-Calling for Larry the lion
-Larry has been fed!
-Larry is roaming around!
-Larry has refused to sleep!
-Larry is roaming around!
-Lara has fallen asleep!
-Calling for Lara the lion
-Lara has been fed!
-Lara is roaming around!
-Lara has refused to sleep!
-Lara the lion roared!
-Calling for Randy the rhino
-Randy has been fed!
-Randy has refused to exercise! They charge at you instead!
-Calling for Rafi the rhino
-Rafi has been fed!
-Rafi has refused to exercise! They charge at you instead!
-Calling for Henry the hippo
-Henry has been fed!
-Henry roams around.
-Calling for Hariett the hippo
-Hariett has been fed!
-Hariett roams around.
-Calling for Eddie the elephant
-Eddie has been fed!
-Eddie roams around.
-Calling for Edna the elephant
-Edna has been fed!
-Edna roams around.
-Calling for Mandy the monkey
-Mandy ate a banana!
-Mandy is roaming around!
-Calling for Mark the monkey
-Mark ate a banana!
-Mark is roaming around!
-Calling for Odie the orangutan
-Odie has refused to eat!
-Odie the orangutan howled!
-Odie is roaming around!
-Calling for Oat the orangutan
-Oat has refused to eat!
-Oat is roaming around!
-Oat has fallen asleep
-Calling for Bob the baboon
-Bob has refused to eat!
-Bob the baboon howled!
-Bob is roaming around!
-Calling for Billie the baboon
-Billie has refused to eat!
-Billie is roaming around!
-Billie has fallen asleep
-Zookeeper has left the zoo!
-
-Day 6:
-Zookeeper has entered the zoo!
-Calling for Wendy the wolf
-Wendy has been fed!
-Wendy is roaming around!
-Calling for Walter the wolf
-Walter has been fed!
-Walter is roaming around!
-Calling for Dumbo the dog
-Dumbo has been fed!
-Dumbo roams around.
-Calling for Deborah the dog
-Deborah has been fed!
-Deborah has refused to exercise! They chose to dig instead.
-Terry has fallen asleep!
-Calling for Terry the tiger
-Terry has been fed!
-Terry is roaming around!
-Terry has refused to sleep!
-Terry is roaming around!
-Tiarra has fallen asleep!
-Calling for Tiarra the tiger
-Tiarra has been fed!
-Tiarra is roaming around!
-Tiarra has refused to sleep!
-Tiarra is roaming around!
-Larry has fallen asleep!
-Calling for Larry the lion
-Larry has been fed!
-Larry is roaming around!
-Larry has refused to sleep!
-Larry is roaming around!
-Lara has fallen asleep!
-Calling for Lara the lion
-Lara has been fed!
-Lara is roaming around!
-Lara has refused to sleep!
-Lara the lion roared!
-Calling for Randy the rhino
-Randy has been fed!
-Randy has refused to exercise! They charge at you instead!
-Calling for Rafi the rhino
-Rafi has been fed!
-Rafi roams around.
-Calling for Henry the hippo
-Henry has been fed!
-Henry roams around.
-Calling for Hariett the hippo
-Hariett has been fed!
-Hariett roams around.
-Calling for Eddie the elephant
-Eddie has been fed!
-Eddie has refused to exercise! They charge at you instead!
-Calling for Edna the elephant
-Edna has been fed!
-Edna roams around.
-Calling for Mandy the monkey
-Mandy ate a banana!
-Mandy is roaming around!
-Calling for Mark the monkey
-Mark ate a banana!
-Mark is roaming around!
-Calling for Odie the orangutan
-Odie has refused to eat!
-Odie is roaming around!
-Odie has fallen asleep
-Calling for Oat the orangutan
-Oat has refused to eat!
-Oat the orangutan howled!
-Oat is roaming around!
-Calling for Bob the baboon
-Bob has refused to eat!
-Bob the baboon howled!
-Bob is roaming around!
-Calling for Billie the baboon
-Billie has refused to eat!
-Billie the baboon howled!
-Billie is roaming around!
-Zookeeper has left the zoo!
-
-Day 7:
-Zookeeper has entered the zoo!
-Calling for Wendy the wolf
-Wendy has been fed!
-Wendy is roaming around!
-Calling for Walter the wolf
-Walter has been fed!
-Walter is roaming around!
-Calling for Dumbo the dog
-Dumbo has been fed!
-Dumbo roams around.
-Calling for Deborah the dog
-Deborah has been fed!
-Deborah roams around.
-Terry has fallen asleep!
-Calling for Terry the tiger
-Terry has been fed!
-Terry is roaming around!
-Terry has refused to sleep!
-Terry the tiger roared!
-Tiarra has fallen asleep!
-Calling for Tiarra the tiger
-Tiarra has been fed!
-Tiarra is roaming around!
-Tiarra has refused to sleep!
-Tiarra is roaming around!
-Larry has fallen asleep!
-Calling for Larry the lion
-Larry has been fed!
-Larry is roaming around!
 Larry has refused to sleep!
 Larry the lion roared!
-Lara has fallen asleep!
-Calling for Lara the lion
-Lara has been fed!
-Lara is roaming around!
 Lara has refused to sleep!
-Lara is roaming around!
+Lara the lion roared!
+Randy has fallen asleep!
+Rafi has fallen asleep!
+Henry has fallen asleep!
+Hariett has fallen asleep!
+Eddie has fallen asleep!
+Edna has fallen asleep!
+Mandy has fallen asleep!
+Mark has fallen asleep!
+Odie has fallen asleep!
+Oat has fallen asleep!
+Bob has fallen asleep!
+Billie has fallen asleep!
+Zookeeper has left the zoo!
+ZooFoodServer has left the zoo!
+
+================================================
+Day 2:
+================================================
+
+Zookeeper has entered the zoo!
+ZooFoodServer has entered the zoo!
+The time is currently 8AM
+<The time is currently 8AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to wake up the animals!***
+Wendy has woke up!
+Walter has woke up!
+Dumbo has woke up!
+Deborah has woke up!
+Terry has woke up!
+Tiarra has woke up!
+Larry has woke up!
+Lara has woke up!
+Randy has woke up!
+Rafi has woke up!
+Henry has woke up!
+Hariett has woke up!
+Eddie has woke up!
+Edna has woke up!
+Mandy has woke up!
+Mark has woke up!
+Odie has woke up!
+Oat has woke up!
+Bob has woke up!
+Billie has woke up!
+<The time is currently 9AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to call out the animals!***
+Calling for Wendy the wolf
+Calling for Walter the wolf
+Calling for Dumbo the dog
+Calling for Deborah the dog
+Calling for Terry the tiger
+Calling for Tiarra the tiger
+Calling for Larry the lion
+Calling for Lara the lion
 Calling for Randy the rhino
-Randy has been fed!
-Randy roams around.
 Calling for Rafi the rhino
-Rafi has been fed!
-Rafi has refused to exercise! They charge at you instead!
 Calling for Henry the hippo
-Henry has been fed!
-Henry roams around.
 Calling for Hariett the hippo
-Hariett has been fed!
-Hariett has refused to exercise! They charge at you instead!
 Calling for Eddie the elephant
-Eddie has been fed!
-Eddie roams around.
 Calling for Edna the elephant
-Edna has been fed!
-Edna has refused to exercise! They charge at you instead!
 Calling for Mandy the monkey
-Mandy ate a banana!
-Mandy is roaming around!
 Calling for Mark the monkey
-Mark ate a banana!
-Mark is roaming around!
 Calling for Odie the orangutan
-Odie has refused to eat!
-Odie is roaming around!
-Odie has fallen asleep
 Calling for Oat the orangutan
+Calling for Bob the baboon
+Calling for Billie the baboon
+<The time is currently 10AM>
+<The time is currently 11AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to feed the animals!***
+Wendy has been fed!
+Walter has been fed!
+Dumbo has been fed!
+Deborah has been fed!
+Terry has been fed!
+Tiarra has been fed!
+Larry has been fed!
+Lara has been fed!
+Randy has been fed!
+Rafi has been fed!
+Henry has been fed!
+Hariett has been fed!
+Eddie has been fed!
+Edna has been fed!
+Mandy ate a banana!
+Mark ate a banana!
+Odie has refused to eat!
+Odie has fallen asleep!
 Oat has refused to eat!
 Oat the orangutan howled!
-Oat is roaming around!
-Calling for Bob the baboon
 Bob has refused to eat!
-Bob is roaming around!
-Bob has fallen asleep
-Calling for Billie the baboon
+Bob the baboon howled!
 Billie has refused to eat!
 Billie the baboon howled!
-Billie is roaming around!
+ZooFoodServer is making food.
+<The time is currently 12AM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 1PM>
+ZooFoodServer is cleaning.
+<The time is currently 2PM>
+<The time is currently 3PM>
+<The time is currently 4PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to let out the animals!***
+Wendy the wolf roams while by sprinting around the enclosure!
+Walter the wolf roams while by sprinting around the enclosure!
+Dumbo has refused to exercise! They chose to dig instead.
+Deborah roams around.
+Terry the tiger roams around while sneaking through the grass!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry the lion roams around while sneaking through the grass!
+Lara the lion roams around while sneaking through the grass!
+Randy has refused to exercise! They charge at you instead!
+Rafi roams around.
+Henry has refused to exercise! They charge at you instead!
+Hariett roams around.
+Eddie has refused to exercise! They charge at you instead!
+Edna roams around.
+Mandy the monkey roams around by swining from the tree vines!
+Mark the monkey roams around by swining from the tree vines!
+Odie the orangutan lazily roams around!
+Oat the orangutan roams around by swining from the tree vines!
+Bob the baboon roams around by swining from the tree vines!
+Billie the baboon lazily roams around!
+ZooFoodServer is making food.
+<The time is currently 5PM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 6PM>
+ZooFoodServer is cleaning.
+<The time is currently 7PM>
+<The time is currently 8PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to end the day and put away the animals!***
+Wendy has fallen asleep!
+Walter has fallen asleep!
+Dumbo has fallen asleep!
+Deborah has fallen asleep!
+Terry has refused to sleep!
+Terry the tiger roared!
+Tiarra has refused to sleep!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry has refused to sleep!
+Larry the lion roared!
+Lara has refused to sleep!
+Lara the lion roared!
+Randy has fallen asleep!
+Rafi has fallen asleep!
+Henry has fallen asleep!
+Hariett has fallen asleep!
+Eddie has fallen asleep!
+Edna has fallen asleep!
+Mandy has fallen asleep!
+Mark has fallen asleep!
+Odie has fallen asleep!
+Oat has fallen asleep!
+Bob has fallen asleep!
+Billie has fallen asleep!
 Zookeeper has left the zoo!
+ZooFoodServer has left the zoo!
+
+================================================
+Day 3:
+================================================
+
+Zookeeper has entered the zoo!
+ZooFoodServer has entered the zoo!
+The time is currently 8AM
+<The time is currently 8AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to wake up the animals!***
+Wendy has woke up!
+Walter has woke up!
+Dumbo has woke up!
+Deborah has woke up!
+Terry has woke up!
+Tiarra has woke up!
+Larry has woke up!
+Lara has woke up!
+Randy has woke up!
+Rafi has woke up!
+Henry has woke up!
+Hariett has woke up!
+Eddie has woke up!
+Edna has woke up!
+Mandy has woke up!
+Mark has woke up!
+Odie has woke up!
+Oat has woke up!
+Bob has woke up!
+Billie has woke up!
+<The time is currently 9AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to call out the animals!***
+Calling for Wendy the wolf
+Calling for Walter the wolf
+Calling for Dumbo the dog
+Calling for Deborah the dog
+Calling for Terry the tiger
+Calling for Tiarra the tiger
+Calling for Larry the lion
+Calling for Lara the lion
+Calling for Randy the rhino
+Calling for Rafi the rhino
+Calling for Henry the hippo
+Calling for Hariett the hippo
+Calling for Eddie the elephant
+Calling for Edna the elephant
+Calling for Mandy the monkey
+Calling for Mark the monkey
+Calling for Odie the orangutan
+Calling for Oat the orangutan
+Calling for Bob the baboon
+Calling for Billie the baboon
+<The time is currently 10AM>
+<The time is currently 11AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to feed the animals!***
+Wendy has been fed!
+Walter has been fed!
+Dumbo has been fed!
+Deborah has been fed!
+Terry has been fed!
+Tiarra has been fed!
+Larry has been fed!
+Lara has been fed!
+Randy has been fed!
+Rafi has been fed!
+Henry has been fed!
+Hariett has been fed!
+Eddie has been fed!
+Edna has been fed!
+Mandy ate a banana!
+Mark ate a banana!
+Odie has refused to eat!
+Odie has fallen asleep!
+Oat has refused to eat!
+Oat has fallen asleep!
+Bob has refused to eat!
+Bob the baboon howled!
+Billie has refused to eat!
+Billie has fallen asleep!
+ZooFoodServer is making food.
+<The time is currently 12AM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 1PM>
+ZooFoodServer is cleaning.
+<The time is currently 2PM>
+<The time is currently 3PM>
+<The time is currently 4PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to let out the animals!***
+Wendy the wolf roams while by sprinting around the enclosure!
+Walter the wolf roams while by sprinting around the enclosure!
+Dumbo roams around.
+Deborah roams around.
+Terry the tiger roams around while sneaking through the grass!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry the lion roams around while sneaking through the grass!
+Lara the lion roams around while sneaking through the grass!
+Randy roams around.
+Rafi roams around.
+Henry roams around.
+Hariett roams around.
+Eddie has refused to exercise! They charge at you instead!
+Edna has refused to exercise! They charge at you instead!
+Mandy the monkey roams around by swining from the tree vines!
+Mark the monkey roams around by swining from the tree vines!
+Odie the orangutan lazily roams around!
+Oat the orangutan roams around by swining from the tree vines!
+Bob the baboon roams around by swining from the tree vines!
+Billie the baboon lazily roams around!
+ZooFoodServer is making food.
+<The time is currently 5PM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 6PM>
+ZooFoodServer is cleaning.
+<The time is currently 7PM>
+<The time is currently 8PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to end the day and put away the animals!***
+Wendy has fallen asleep!
+Walter has fallen asleep!
+Dumbo has fallen asleep!
+Deborah has fallen asleep!
+Terry has refused to sleep!
+Terry the tiger roams around while sneaking through the grass!
+Tiarra has refused to sleep!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry has refused to sleep!
+Larry the lion roared!
+Lara has refused to sleep!
+Lara the lion roared!
+Randy has fallen asleep!
+Rafi has fallen asleep!
+Henry has fallen asleep!
+Hariett has fallen asleep!
+Eddie has fallen asleep!
+Edna has fallen asleep!
+Mandy has fallen asleep!
+Mark has fallen asleep!
+Odie has fallen asleep!
+Oat has fallen asleep!
+Bob has fallen asleep!
+Billie has fallen asleep!
+Zookeeper has left the zoo!
+ZooFoodServer has left the zoo!
+
+================================================
+Day 4:
+================================================
+
+Zookeeper has entered the zoo!
+ZooFoodServer has entered the zoo!
+The time is currently 8AM
+<The time is currently 8AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to wake up the animals!***
+Wendy has woke up!
+Walter has woke up!
+Dumbo has woke up!
+Deborah has woke up!
+Terry has woke up!
+Tiarra has woke up!
+Larry has woke up!
+Lara has woke up!
+Randy has woke up!
+Rafi has woke up!
+Henry has woke up!
+Hariett has woke up!
+Eddie has woke up!
+Edna has woke up!
+Mandy has woke up!
+Mark has woke up!
+Odie has woke up!
+Oat has woke up!
+Bob has woke up!
+Billie has woke up!
+<The time is currently 9AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to call out the animals!***
+Calling for Wendy the wolf
+Calling for Walter the wolf
+Calling for Dumbo the dog
+Calling for Deborah the dog
+Calling for Terry the tiger
+Calling for Tiarra the tiger
+Calling for Larry the lion
+Calling for Lara the lion
+Calling for Randy the rhino
+Calling for Rafi the rhino
+Calling for Henry the hippo
+Calling for Hariett the hippo
+Calling for Eddie the elephant
+Calling for Edna the elephant
+Calling for Mandy the monkey
+Calling for Mark the monkey
+Calling for Odie the orangutan
+Calling for Oat the orangutan
+Calling for Bob the baboon
+Calling for Billie the baboon
+<The time is currently 10AM>
+<The time is currently 11AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to feed the animals!***
+Wendy has been fed!
+Walter has been fed!
+Dumbo has been fed!
+Deborah has been fed!
+Terry has been fed!
+Tiarra has been fed!
+Larry has been fed!
+Lara has been fed!
+Randy has been fed!
+Rafi has been fed!
+Henry has been fed!
+Hariett has been fed!
+Eddie has been fed!
+Edna has been fed!
+Mandy ate a banana!
+Mark ate a banana!
+Odie has refused to eat!
+Odie has fallen asleep!
+Oat has refused to eat!
+Oat the orangutan howled!
+Bob has refused to eat!
+Bob has fallen asleep!
+Billie has refused to eat!
+Billie has fallen asleep!
+ZooFoodServer is making food.
+<The time is currently 12AM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 1PM>
+ZooFoodServer is cleaning.
+<The time is currently 2PM>
+<The time is currently 3PM>
+<The time is currently 4PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to let out the animals!***
+Wendy the wolf roams while by sprinting around the enclosure!
+Walter the wolf roams while by sprinting around the enclosure!
+Dumbo roams around.
+Deborah roams around.
+Terry the tiger roams around while sneaking through the grass!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry the lion roams around while sneaking through the grass!
+Lara the lion roams around while sneaking through the grass!
+Randy roams around.
+Rafi roams around.
+Henry roams around.
+Hariett has refused to exercise! They charge at you instead!
+Eddie roams around.
+Edna has refused to exercise! They charge at you instead!
+Mandy the monkey roams around by swining from the tree vines!
+Mark the monkey roams around by swining from the tree vines!
+Odie the orangutan lazily roams around!
+Oat the orangutan roams around by swining from the tree vines!
+Bob the baboon roams around by swining from the tree vines!
+Billie the baboon lazily roams around!
+ZooFoodServer is making food.
+<The time is currently 5PM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 6PM>
+ZooFoodServer is cleaning.
+<The time is currently 7PM>
+<The time is currently 8PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to end the day and put away the animals!***
+Wendy has fallen asleep!
+Walter has fallen asleep!
+Dumbo has fallen asleep!
+Deborah has fallen asleep!
+Terry has refused to sleep!
+Terry the tiger roared!
+Tiarra has refused to sleep!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry has refused to sleep!
+Larry the lion roared!
+Lara has refused to sleep!
+Lara the lion roared!
+Randy has fallen asleep!
+Rafi has fallen asleep!
+Henry has fallen asleep!
+Hariett has fallen asleep!
+Eddie has fallen asleep!
+Edna has fallen asleep!
+Mandy has fallen asleep!
+Mark has fallen asleep!
+Odie has fallen asleep!
+Oat has fallen asleep!
+Bob has fallen asleep!
+Billie has fallen asleep!
+Zookeeper has left the zoo!
+ZooFoodServer has left the zoo!
+
+================================================
+Day 5:
+================================================
+
+Zookeeper has entered the zoo!
+ZooFoodServer has entered the zoo!
+The time is currently 8AM
+<The time is currently 8AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to wake up the animals!***
+Wendy has woke up!
+Walter has woke up!
+Dumbo has woke up!
+Deborah has woke up!
+Terry has woke up!
+Tiarra has woke up!
+Larry has woke up!
+Lara has woke up!
+Randy has woke up!
+Rafi has woke up!
+Henry has woke up!
+Hariett has woke up!
+Eddie has woke up!
+Edna has woke up!
+Mandy has woke up!
+Mark has woke up!
+Odie has woke up!
+Oat has woke up!
+Bob has woke up!
+Billie has woke up!
+<The time is currently 9AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to call out the animals!***
+Calling for Wendy the wolf
+Calling for Walter the wolf
+Calling for Dumbo the dog
+Calling for Deborah the dog
+Calling for Terry the tiger
+Calling for Tiarra the tiger
+Calling for Larry the lion
+Calling for Lara the lion
+Calling for Randy the rhino
+Calling for Rafi the rhino
+Calling for Henry the hippo
+Calling for Hariett the hippo
+Calling for Eddie the elephant
+Calling for Edna the elephant
+Calling for Mandy the monkey
+Calling for Mark the monkey
+Calling for Odie the orangutan
+Calling for Oat the orangutan
+Calling for Bob the baboon
+Calling for Billie the baboon
+<The time is currently 10AM>
+<The time is currently 11AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to feed the animals!***
+Wendy has been fed!
+Walter has been fed!
+Dumbo has been fed!
+Deborah has been fed!
+Terry has been fed!
+Tiarra has been fed!
+Larry has been fed!
+Lara has been fed!
+Randy has been fed!
+Rafi has been fed!
+Henry has been fed!
+Hariett has been fed!
+Eddie has been fed!
+Edna has been fed!
+Mandy ate a banana!
+Mark ate a banana!
+Odie has refused to eat!
+Odie the orangutan howled!
+Oat has refused to eat!
+Oat has fallen asleep!
+Bob has refused to eat!
+Bob the baboon howled!
+Billie has refused to eat!
+Billie has fallen asleep!
+ZooFoodServer is making food.
+<The time is currently 12AM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 1PM>
+ZooFoodServer is cleaning.
+<The time is currently 2PM>
+<The time is currently 3PM>
+<The time is currently 4PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to let out the animals!***
+Wendy the wolf roams while by sprinting around the enclosure!
+Walter the wolf roams while by sprinting around the enclosure!
+Dumbo roams around.
+Deborah has refused to exercise! They chose to dig instead.
+Terry the tiger roams around while sneaking through the grass!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry the lion roams around while sneaking through the grass!
+Lara the lion roams around while sneaking through the grass!
+Randy roams around.
+Rafi has refused to exercise! They charge at you instead!
+Henry roams around.
+Hariett has refused to exercise! They charge at you instead!
+Eddie roams around.
+Edna roams around.
+Mandy the monkey roams around by swining from the tree vines!
+Mark the monkey roams around by swining from the tree vines!
+Odie the orangutan lazily roams around!
+Oat the orangutan roams around by swining from the tree vines!
+Bob the baboon roams around by swining from the tree vines!
+Billie the baboon lazily roams around!
+ZooFoodServer is making food.
+<The time is currently 5PM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 6PM>
+ZooFoodServer is cleaning.
+<The time is currently 7PM>
+<The time is currently 8PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to end the day and put away the animals!***
+Wendy has fallen asleep!
+Walter has fallen asleep!
+Dumbo has fallen asleep!
+Deborah has fallen asleep!
+Terry has refused to sleep!
+Terry the tiger roams around while sneaking through the grass!
+Tiarra has refused to sleep!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry has refused to sleep!
+Larry the lion roared!
+Lara has refused to sleep!
+Lara the lion roams around while sneaking through the grass!
+Randy has fallen asleep!
+Rafi has fallen asleep!
+Henry has fallen asleep!
+Hariett has fallen asleep!
+Eddie has fallen asleep!
+Edna has fallen asleep!
+Mandy has fallen asleep!
+Mark has fallen asleep!
+Odie has fallen asleep!
+Oat has fallen asleep!
+Bob has fallen asleep!
+Billie has fallen asleep!
+Zookeeper has left the zoo!
+ZooFoodServer has left the zoo!
+
+================================================
+Day 6:
+================================================
+
+Zookeeper has entered the zoo!
+ZooFoodServer has entered the zoo!
+The time is currently 8AM
+<The time is currently 8AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to wake up the animals!***
+Wendy has woke up!
+Walter has woke up!
+Dumbo has woke up!
+Deborah has woke up!
+Terry has woke up!
+Tiarra has woke up!
+Larry has woke up!
+Lara has woke up!
+Randy has woke up!
+Rafi has woke up!
+Henry has woke up!
+Hariett has woke up!
+Eddie has woke up!
+Edna has woke up!
+Mandy has woke up!
+Mark has woke up!
+Odie has woke up!
+Oat has woke up!
+Bob has woke up!
+Billie has woke up!
+<The time is currently 9AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to call out the animals!***
+Calling for Wendy the wolf
+Calling for Walter the wolf
+Calling for Dumbo the dog
+Calling for Deborah the dog
+Calling for Terry the tiger
+Calling for Tiarra the tiger
+Calling for Larry the lion
+Calling for Lara the lion
+Calling for Randy the rhino
+Calling for Rafi the rhino
+Calling for Henry the hippo
+Calling for Hariett the hippo
+Calling for Eddie the elephant
+Calling for Edna the elephant
+Calling for Mandy the monkey
+Calling for Mark the monkey
+Calling for Odie the orangutan
+Calling for Oat the orangutan
+Calling for Bob the baboon
+Calling for Billie the baboon
+<The time is currently 10AM>
+<The time is currently 11AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to feed the animals!***
+Wendy has been fed!
+Walter has been fed!
+Dumbo has been fed!
+Deborah has been fed!
+Terry has been fed!
+Tiarra has been fed!
+Larry has been fed!
+Lara has been fed!
+Randy has been fed!
+Rafi has been fed!
+Henry has been fed!
+Hariett has been fed!
+Eddie has been fed!
+Edna has been fed!
+Mandy ate a banana!
+Mark ate a banana!
+Odie has refused to eat!
+Odie has fallen asleep!
+Oat has refused to eat!
+Oat the orangutan howled!
+Bob has refused to eat!
+Bob the baboon howled!
+Billie has refused to eat!
+Billie has fallen asleep!
+ZooFoodServer is making food.
+<The time is currently 12AM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 1PM>
+ZooFoodServer is cleaning.
+<The time is currently 2PM>
+<The time is currently 3PM>
+<The time is currently 4PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to let out the animals!***
+Wendy the wolf roams while by sprinting around the enclosure!
+Walter the wolf roams while by sprinting around the enclosure!
+Dumbo has refused to exercise! They chose to dig instead.
+Deborah roams around.
+Terry the tiger roams around while sneaking through the grass!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry the lion roams around while sneaking through the grass!
+Lara the lion roams around while sneaking through the grass!
+Randy roams around.
+Rafi roams around.
+Henry has refused to exercise! They charge at you instead!
+Hariett roams around.
+Eddie has refused to exercise! They charge at you instead!
+Edna roams around.
+Mandy the monkey roams around by swining from the tree vines!
+Mark the monkey roams around by swining from the tree vines!
+Odie the orangutan lazily roams around!
+Oat the orangutan roams around by swining from the tree vines!
+Bob the baboon roams around by swining from the tree vines!
+Billie the baboon lazily roams around!
+ZooFoodServer is making food.
+<The time is currently 5PM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 6PM>
+ZooFoodServer is cleaning.
+<The time is currently 7PM>
+<The time is currently 8PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to end the day and put away the animals!***
+Wendy has fallen asleep!
+Walter has fallen asleep!
+Dumbo has fallen asleep!
+Deborah has fallen asleep!
+Terry has refused to sleep!
+Terry the tiger roared!
+Tiarra has refused to sleep!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry has refused to sleep!
+Larry the lion roams around while sneaking through the grass!
+Lara has refused to sleep!
+Lara the lion roared!
+Randy has fallen asleep!
+Rafi has fallen asleep!
+Henry has fallen asleep!
+Hariett has fallen asleep!
+Eddie has fallen asleep!
+Edna has fallen asleep!
+Mandy has fallen asleep!
+Mark has fallen asleep!
+Odie has fallen asleep!
+Oat has fallen asleep!
+Bob has fallen asleep!
+Billie has fallen asleep!
+Zookeeper has left the zoo!
+ZooFoodServer has left the zoo!
+
+================================================
+Day 7:
+================================================
+
+Zookeeper has entered the zoo!
+ZooFoodServer has entered the zoo!
+The time is currently 8AM
+<The time is currently 8AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to wake up the animals!***
+Wendy has woke up!
+Walter has woke up!
+Dumbo has woke up!
+Deborah has woke up!
+Terry has woke up!
+Tiarra has woke up!
+Larry has woke up!
+Lara has woke up!
+Randy has woke up!
+Rafi has woke up!
+Henry has woke up!
+Hariett has woke up!
+Eddie has woke up!
+Edna has woke up!
+Mandy has woke up!
+Mark has woke up!
+Odie has woke up!
+Oat has woke up!
+Bob has woke up!
+Billie has woke up!
+<The time is currently 9AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to call out the animals!***
+Calling for Wendy the wolf
+Calling for Walter the wolf
+Calling for Dumbo the dog
+Calling for Deborah the dog
+Calling for Terry the tiger
+Calling for Tiarra the tiger
+Calling for Larry the lion
+Calling for Lara the lion
+Calling for Randy the rhino
+Calling for Rafi the rhino
+Calling for Henry the hippo
+Calling for Hariett the hippo
+Calling for Eddie the elephant
+Calling for Edna the elephant
+Calling for Mandy the monkey
+Calling for Mark the monkey
+Calling for Odie the orangutan
+Calling for Oat the orangutan
+Calling for Bob the baboon
+Calling for Billie the baboon
+<The time is currently 10AM>
+<The time is currently 11AM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to feed the animals!***
+Wendy has been fed!
+Walter has been fed!
+Dumbo has been fed!
+Deborah has been fed!
+Terry has been fed!
+Tiarra has been fed!
+Larry has been fed!
+Lara has been fed!
+Randy has been fed!
+Rafi has been fed!
+Henry has been fed!
+Hariett has been fed!
+Eddie has been fed!
+Edna has been fed!
+Mandy ate a banana!
+Mark ate a banana!
+Odie has refused to eat!
+Odie the orangutan howled!
+Oat has refused to eat!
+Oat has fallen asleep!
+Bob has refused to eat!
+Bob has fallen asleep!
+Billie has refused to eat!
+Billie has fallen asleep!
+ZooFoodServer is making food.
+<The time is currently 12AM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 1PM>
+ZooFoodServer is cleaning.
+<The time is currently 2PM>
+<The time is currently 3PM>
+<The time is currently 4PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to let out the animals!***
+Wendy the wolf roams while by sprinting around the enclosure!
+Walter the wolf roams while by sprinting around the enclosure!
+Dumbo has refused to exercise! They chose to dig instead.
+Deborah has refused to exercise! They chose to dig instead.
+Terry the tiger roams around while sneaking through the grass!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry the lion roams around while sneaking through the grass!
+Lara the lion roams around while sneaking through the grass!
+Randy roams around.
+Rafi has refused to exercise! They charge at you instead!
+Henry roams around.
+Hariett roams around.
+Eddie roams around.
+Edna roams around.
+Mandy the monkey roams around by swining from the tree vines!
+Mark the monkey roams around by swining from the tree vines!
+Odie the orangutan lazily roams around!
+Oat the orangutan roams around by swining from the tree vines!
+Bob the baboon roams around by swining from the tree vines!
+Billie the baboon lazily roams around!
+ZooFoodServer is making food.
+<The time is currently 5PM>
+***Hello, this is the Zoo Announcer!***
+***The server is about to serve food!***
+ZooFoodServer is serving food.
+<The time is currently 6PM>
+ZooFoodServer is cleaning.
+<The time is currently 7PM>
+<The time is currently 8PM>
+***Hello, this is the Zoo Announcer!***
+***The keeper is about to end the day and put away the animals!***
+Wendy has fallen asleep!
+Walter has fallen asleep!
+Dumbo has fallen asleep!
+Deborah has fallen asleep!
+Terry has refused to sleep!
+Terry the tiger roared!
+Tiarra has refused to sleep!
+Tiarra the tiger roams while by sprinting around the enclosure!
+Larry has refused to sleep!
+Larry the lion roared!
+Lara has refused to sleep!
+Lara the lion roams around while sneaking through the grass!
+Randy has fallen asleep!
+Rafi has fallen asleep!
+Henry has fallen asleep!
+Hariett has fallen asleep!
+Eddie has fallen asleep!
+Edna has fallen asleep!
+Mandy has fallen asleep!
+Mark has fallen asleep!
+Odie has fallen asleep!
+Oat has fallen asleep!
+Bob has fallen asleep!
+Billie has fallen asleep!
+Zookeeper has left the zoo!
+ZooFoodServer has left the zoo!

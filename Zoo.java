@@ -10,7 +10,6 @@ public class Zoo{
 		System.out.println("Welcome to The Zoo!");
 		System.out.println("Enter the number of days you'd like to simulate:");
 		int days = scan.nextInt();
-		System.out.println("================================================\n");
 
 
 		List<RoamBehavior> behaviors = new ArrayList<RoamBehavior>();
@@ -71,7 +70,9 @@ public class Zoo{
 		be called the same way */
 
 		for(int i = 1; i <= days; i++){
+			System.out.println("================================================");
 			System.out.println("Day "+i+":");
+			System.out.println("================================================\n");
 
 			ZooKeeper keeper = new ZooKeeper();
 			System.out.println("Zookeeper has entered the zoo!");
@@ -123,7 +124,7 @@ public class Zoo{
 			keeper = null;
 			clock = null;
 			System.out.println("Zookeeper has left the zoo!");
-			System.out.println("ZooFoodServer has left the zoo!");
+			System.out.println("ZooFoodServer has left the zoo!\n");
 		}
     }
 }
