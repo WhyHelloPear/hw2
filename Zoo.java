@@ -77,11 +77,7 @@ public class Zoo{
 			System.out.println("Zookeeper has entered the zoo!");
 			ZooFoodServer server = new ZooFoodServer();
 			System.out.println("ZooFoodServer has entered the zoo!");
-
 			ZooAnnouncer announcer = new ZooAnnouncer(keeper, server);
-
-
-			//ZooAnnouncer announcer2 = new ServerObserver(server);
 
 			ZooClock clock = new ZooClock();
 			clock.newDay();
