@@ -75,9 +75,17 @@ public class Zoo{
 
 			ZooKeeper keeper = new ZooKeeper();
 			System.out.println("Zookeeper has entered the zoo!");
-			ZooAnnouncer announcer = new KeeperObserver(keeper);
+			ZooFoodServer server = new ZooFoodServer();
+			System.out.println("ZooFoodServer has entered the zoo!");
+
+			ZooAnnouncer announcer = new ZooAnnouncer(keeper, server);
+
+
+			//ZooAnnouncer announcer2 = new ServerObserver(server);
+
 			ZooClock clock = new ZooClock();
 			clock.newDay();
+
 			while(clock.isDay()){
 				clock.announceTime();
 				int curr_hour = clock.getHour();
@@ -103,11 +111,23 @@ public class Zoo{
 						}
 					}
 				}
+
+				if(curr_hour == 3 || curr_hour == 8){
+					server.makeFood();
+				}
+				else if(curr_hour == 4 || curr_hour == 9){
+					server.serveFood();
+				}
+				else if(curr_hour == 5 || curr_hour == 10){
+					server.clean();
+				}
+
 				clock.nextHour();
 			}
 			keeper = null;
 			clock = null;
-			System.out.println("Zookeeper has left the zoo!\n");
+			System.out.println("Zookeeper has left the zoo!");
+			System.out.println("ZooFoodServer has left the zoo!");
 		}
     }
 }
